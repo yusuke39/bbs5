@@ -2,7 +2,11 @@ package com.example.demo;
 
 public class Car {
 
+<<<<<<< HEAD
 	private int speed = 0;
+=======
+	private int speed=0;
+>>>>>>> feature/login
 	private String bodyColor;
 
 	public int getSpeed() {
