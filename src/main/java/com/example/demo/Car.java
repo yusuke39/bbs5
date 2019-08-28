@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class Car {
 
-	private int speed;
+	private int speed=0;
 	private String bodyColor;
 
 	public int getSpeed() {
